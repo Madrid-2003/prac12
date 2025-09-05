@@ -1,5 +1,5 @@
 {
-  "name": "real-estate-platform",
+  "name": "Homelander",
   "version": "1.0.0",
   "description": "Full-stack real estate platform with buyer, seller, and admin roles",
   "main": "server.js",
@@ -37,6 +37,6 @@
     "seller",
     "admin"
   ],
-  "author": "Your Name",
+  "author": "Madrid",
   "license": "MIT"
 }

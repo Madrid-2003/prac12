@@ -52,7 +52,7 @@ const Login: React.FC = () => {
               <span className="text-white font-bold text-lg">R</span>
             </div>
             <span className="text-2xl font-bold text-gray-900 dark:text-white">
-              RealEstate
+              Homelander
             </span>
           </Link>
           <h2 className="text-3xl font-bold text-gray-900 dark:text-white">

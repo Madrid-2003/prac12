@@ -77,7 +77,7 @@ router.post('/create-order', auth, [
       key: PAYU_CONFIG.key,
       txnid: transactionId,
       amount: amount.toString(),
-      productinfo: `${plan.toUpperCase()} Plan - Real Estate Platform`,
+      productinfo: `${plan.toUpperCase()} Plan - Homelander Platform`,
       firstname: user.name.split(' ')[0],
       email: user.email,
       phone: user.phone,

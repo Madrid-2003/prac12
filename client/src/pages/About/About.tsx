@@ -92,7 +92,7 @@ const About: React.FC = () => {
             className="text-center"
           >
             <h1 className="text-4xl md:text-6xl font-bold mb-6">
-              About RealEstate
+              About Homelander
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-3xl mx-auto">
               We're revolutionizing the real estate industry by connecting buyers, sellers, and renters 
