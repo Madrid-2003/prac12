@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f66503a1.css",
+    "main.js": "./static/js/main.24bd55f4.js",
+    "static/media/PaymentSuccess": "./static/media/PaymentSuccess.d06cebdd72c5fa0dcc62",
+    "static/media/PaymentFailure": "./static/media/PaymentFailure.aa80f105c531cdadf339",
+    "index.html": "./index.html",
+    "main.f66503a1.css.map": "./static/css/main.f66503a1.css.map",
+    "main.24bd55f4.js.map": "./static/js/main.24bd55f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f66503a1.css",
+    "static/js/main.24bd55f4.js"
+  ]
+}
